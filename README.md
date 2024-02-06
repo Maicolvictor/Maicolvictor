@@ -1,4 +1,4 @@
-## Olá, me chamo Michael Victor, sou programdor fullstack!
+## Olá, me chamo Michael Victor, sou programador fullstack!
 
 Sobre mim: Comecei minha carreira de Dev aos 17 anos, desde que comecei venho aprendendo cada vez mais dia após dia, atualmente trabalho com manutenções de sistemas em Ruby on Rails.
 Abaixo estão linguagens/frameworks que tenho conhecimento e já participei de projetos:
